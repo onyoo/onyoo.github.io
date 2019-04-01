@@ -76,7 +76,8 @@ class Game extends React.Component {
 
 // ========================================
 
-// var Router = ReactRouter.Route;
+var Router = ReactRouterDOM.Route;
+var Link = ReactRouterDOM.Link;
 
 ReactDOM.render(
     <Router>
