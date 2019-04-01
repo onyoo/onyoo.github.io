@@ -76,6 +76,8 @@ class Game extends React.Component {
 
 // ========================================
 
+var Route = ReactRouter.Route;
+
 ReactDOM.render(
     <Router>
       <div>
