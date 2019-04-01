@@ -91,7 +91,6 @@ ReactDOM.render(
         <HelloMessage name="Roberto" />
 
         <main>
-          <Route exact path="/" component={Dashboard} />
           <Route path="/tick" component={Game} />
         </main>
 
