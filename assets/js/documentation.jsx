@@ -94,5 +94,5 @@ ReactDOM.render(
         // <Game />
       </div>
     </Router>,
-  document.getElementById('root')
+  document.getElementById('hello-example')
 );
